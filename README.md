@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattdgreen86
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analytics by getting a Google Data Analytics Certificate
+- 🌱 I’m currently working on mastering Excel and starting to learn Python
 - 💞️ I’m looking to collaborate on anything and everything data related
 - 📫 How to reach me https://www.linkedin.com/in/matthew-d-green86/
 
